@@ -1,0 +1,3 @@
+Dining - Philosopher
+Reader - Writer
+Producer - Consumer
